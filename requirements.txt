@@ -7,7 +7,7 @@ fastapi==0.65.2
 flake8==3.9.2
 h11==0.12.0
 httpcore==0.13.6
-httpx==0.18.1
+httpx==0.23.0
 idna==3.2
 mccabe==0.6.1
 mypy==0.902
